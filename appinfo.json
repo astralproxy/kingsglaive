@@ -1,0 +1,55 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jsternfield@hotmail.com",
+    "enableMultiJS": true,
+    "longName": "Kingsglaive",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/trebucbd.ttf",
+                "name": "FONT_TREBUCHET_BOLD_40",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/trebucbd.ttf",
+                "name": "FONT_TREBUCHET_BOLD_24",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/trebuc.ttf",
+                "name": "FONT_TREBUCHET_16",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/trebuc.ttf",
+                "name": "FONT_TREBUCHET_40",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/LSANS.TTF",
+                "name": "FONT_LUCIDA_SANS_42",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Kingsglaive",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5eb26710-2201-4731-8e52-20b70f7d73aa",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
